@@ -15,6 +15,10 @@ The best resources an IT person needs day to day: AI tools, learning resources, 
 
 - **Eloquent JavaScript**: https://eloquentjavascript.net/. Free online book by Marijn Haverbeke that teaches JavaScript from the basics to advanced topics with exercises and projects.
 
+## Best Newsletters
+
+- **TLDR**: https://tldr.tech. Free daily email with short summaries of the most interesting stories in tech, startups, and programming, so you can stay current in a few minutes each morning.
+
 ---
 
-Last updated: 2026-11-21.
+Last updated: 2026-11-22.
