@@ -5,6 +5,7 @@ The best resources an IT person needs day to day: AI tools, learning resources, 
 ## Best AI Tools
 
 - **ChatGPT by OpenAI**: https://chat.openai.com. AI assistant for coding help, debugging, writing, brainstorming, and learning new topics. Free plan available.
+- **Claude by Anthropic**: https://claude.ai. AI assistant for coding help, writing, and working through hard problems. Free plan available.
 
 ## Programming & Learning Resources
 
@@ -25,4 +26,4 @@ The best resources an IT person needs day to day: AI tools, learning resources, 
 
 ---
 
-Last updated: 2026-11-23.
+Last updated: 2026-11-24.
