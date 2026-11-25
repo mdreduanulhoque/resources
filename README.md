@@ -16,6 +16,7 @@ The best resources an IT person needs day to day: AI tools, learning resources, 
 ## Best Books for Learning
 
 - **Eloquent JavaScript**: https://eloquentjavascript.net/. Free online book by Marijn Haverbeke that teaches JavaScript from the basics to advanced topics with exercises and projects.
+- **Automate the Boring Stuff with Python**: https://automatetheboringstuff.com/. Free online book by Al Sweigart that teaches Python by writing small programs to handle everyday tasks like renaming files, working with spreadsheets, and sending emails.
 
 ## Best Newsletters
 
@@ -26,5 +27,4 @@ The best resources an IT person needs day to day: AI tools, learning resources, 
 - **The Odin Project**: https://www.theodinproject.com/. Free full stack web development curriculum with guided lessons and projects for people learning to build websites from scratch.
 
 ---
-
-Last updated: 2026-11-25.
+Last updated: 2026-11-26.
