@@ -21,10 +21,11 @@ The best resources an IT person needs day to day: AI tools, learning resources, 
 ## Best Newsletters
 
 - **TLDR**: https://tldr.tech. Free daily email with short summaries of the most interesting stories in tech, startups, and programming, so you can stay current in a few minutes each morning.
+- **Morning Brew**: https://www.morningbrew.com. Free daily email that covers business, tech, and finance news in a short and easy read, good for anyone who wants to stay updated without reading long articles.
 
 ## Best Tutorials
 
 - **The Odin Project**: https://www.theodinproject.com/. Free full stack web development curriculum with guided lessons and projects for people learning to build websites from scratch.
 
 ---
-Last updated: 2026-11-26.
+Last updated: 2026-11-27.
