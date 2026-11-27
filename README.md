@@ -9,7 +9,7 @@ The best resources an IT person needs day to day: AI tools, learning resources, 
 
 ## Programming & Learning Resources
 
-- **Python**: https://www.learnpython.org/. Free interactive Python tutorial for beginners.
+- **Python**: https://www.learnpython.org/. Free interactive Python tutorials for beginners.
 - **freeCodeCamp**: https://www.freecodecamp.org/. Free coding lessons and practice projects for people starting out with web development.
 - **MDN Web Docs**: https://developer.mozilla.org/. Free reference and learning guides for HTML, CSS, JavaScript, and web APIs, kept by Mozilla and used by web developers every day.
 
@@ -26,6 +26,7 @@ The best resources an IT person needs day to day: AI tools, learning resources, 
 ## Best Tutorials
 
 - **The Odin Project**: https://www.theodinproject.com/. Free full stack web development curriculum with guided lessons and projects for people learning to build websites from scratch.
+- **Khan Academy**: https://www.khanacademy.org. Free video lessons and practice exercises for math, science, and programming that anyone can learn at their own pace.
 
 ---
-Last updated: 2026-11-27.
+Last updated: 2026-11-28.
